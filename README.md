@@ -158,13 +158,13 @@ JOB_LISTING/
 
 ## **Screenshots**
 ### **Job Listings**
-![Job Listings Screenshot](assets/image/job_listing.png)
+![Job Listings Screenshot](assets/images/job_listing.png)
 
 ### **Server Running**
-![Server Running Screenshot](assets/image/terminal.png)
+![Server Running Screenshot](assets/images/terminal.png)
 
 ### **POSTMAN API**
-![Postman API Screenshot](assets/image/postman_api.png)
+![Postman API Screenshot](assets/images/postman_api.png)
 
 ### **DEMO VIDEO**
 ![Demo Video](assets/videos/demo.mp4)
