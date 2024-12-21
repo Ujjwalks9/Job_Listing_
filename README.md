@@ -167,7 +167,9 @@ JOB_LISTING/
 ![Postman API Screenshot](assets/images/postman_api.png)
 
 ### **DEMO VIDEO**
-![Demo Video](assets/videos/demo.mp4)
+![Demo Video](
+https://github.com/user-attachments/assets/d71f272a-26b9-4033-85ad-badddc72e7f3
+)
 
 
 ---
