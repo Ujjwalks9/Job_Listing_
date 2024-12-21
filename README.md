@@ -130,7 +130,7 @@ JOB_LISTING/
     "status": "success",
     "jobs": [
       {
-        " "id": 1,
+        "id": 1,
             "job_id": "6c1458864d67cd32d2f80c688e8fb6cb",
             "guid": "00000000-0000-0000-0000-000000000000",
             "summary": "Arrow Staffing is seeking a Printing Operator to join our team in Grand Rapids. This is an in-person position focused on operating production equipment to produce and print on various sign components.  Shift: 7:25 AM to 3:55 PM  Wage: $16-$17 per hour  Day-to-Day Responsibilities: Artwork and file preparation.Operating UV flatbed printers, plotters, routers, and related equipment.Loading, unloading, and inspecting parts.Performing additional duties as assigned. Qualifications: Experience using s",
@@ -167,12 +167,15 @@ JOB_LISTING/
 ![Postman API Screenshot](assets/images/postman_api.png)
 
 ### **DEMO VIDEO**
-![Demo Video](
+
 https://github.com/user-attachments/assets/d71f272a-26b9-4033-85ad-badddc72e7f3
-)
+
 
 
 ---
 
 
 ## **THANKS FOR VISTING!!!**
+
+
+
