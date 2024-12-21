@@ -157,11 +157,18 @@ JOB_LISTING/
 ---
 
 ## **Screenshots**
-### **Header Section**
-![Header Screenshot](https://via.placeholder.com/800x150)
-
 ### **Job Listings**
-![Job Listings Screenshot](https://via.placeholder.com/800x400)
+![Job Listings Screenshot](assets/image/job_listing.png)
+
+### **Server Running**
+![Server Running Screenshot](assets/image/terminal.png)
+
+### **POSTMAN API**
+![Postman API Screenshot](assets/image/postman_api.png)
+
+### **DEMO VIDEO**
+![Demo Video](assets/videos/demo.mp4)
+
 
 ---
 
