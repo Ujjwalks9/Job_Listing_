@@ -23,9 +23,29 @@ A modern web application to browse and manage remote job listings. Built with a 
 ### **Backend**
 - **Django**: Python-based web framework for handling API endpoints and business logic.
 - **Django REST Framework (DRF)**: Simplifies API development.
-- **SQLite**: Lightweight database for storing job data.
+- **MySql**: Lightweight database for storing job data.
 
 ---
+---
+
+## **Screenshots**
+### **Job Listings**
+![Job Listings Screenshot](assets/images/job_listing.png)
+
+### **Server Running**
+![Server Running Screenshot](assets/images/terminal.png)
+
+### **POSTMAN API**
+![Postman API Screenshot](assets/images/postman_api.png)
+
+### **DEMO VIDEO**
+
+https://github.com/user-attachments/assets/d71f272a-26b9-4033-85ad-badddc72e7f3
+
+
+
+---
+
 
 ## **Getting Started**
 
@@ -154,25 +174,6 @@ JOB_LISTING/
 
   ```
 
----
-
-## **Screenshots**
-### **Job Listings**
-![Job Listings Screenshot](assets/images/job_listing.png)
-
-### **Server Running**
-![Server Running Screenshot](assets/images/terminal.png)
-
-### **POSTMAN API**
-![Postman API Screenshot](assets/images/postman_api.png)
-
-### **DEMO VIDEO**
-
-https://github.com/user-attachments/assets/d71f272a-26b9-4033-85ad-badddc72e7f3
-
-
-
----
 
 
 ## **THANKS FOR VISTING!!!**
