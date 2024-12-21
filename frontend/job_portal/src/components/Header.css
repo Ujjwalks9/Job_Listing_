@@ -1,0 +1,118 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Header Container */
+  .header-container{
+    z-index: 1;
+    position: sticky;
+    top: 0;
+    background-color: #fafcff;
+    border-radius: 0 0 20px 20px;
+    border: 1px solid #e3e9ef;
+    box-shadow: 0 0 12px rgba(15, 20, 25, 0.04);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 64px 16px 64px;
+    font-family: Arial, sans-serif;
+  }
+  /* Logo Section */
+  .header-logo-section .logo-link {
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #0061ff;
+  }
+  
+  /* Navigation Section */
+  .header-navigation-section {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+  }
+  .text-link{
+    align-items: center;
+    padding: 8px;
+  }
+  
+  .main-navigation {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .navigation-list {
+    display: flex;
+    gap: 24px; /* Add spacing between links */
+    list-style: none;
+  }
+  
+  .navigation-list li a {
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #0061ff;
+    transition: color 0.3s ease;
+  }
+  
+  .navigation-list li a:hover {
+    color: #004bb5;
+  }
+  
+  /* Button Styles */
+  .signup-button {
+    background-color: #0061ff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 24px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .signup-button:hover {
+    background-color: #004bb5;
+    
+  }
+  
+  .login-button {
+    background-color: white;
+    color: #0061ff;
+    border: 2px solid #0061ff;
+    padding: 8px 16px;
+    border-radius: 24px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .login-button:hover {
+    background-color: #f0f4ff;
+    color: #004bb5;
+  }
+  
+  /* Responsive Design */
+  @media screen and (max-width: 768px) {
+    .header-container {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 16px;
+    }
+  
+    .main-navigation {
+      width: 100%;
+      justify-content: space-between;
+    }
+  
+    .navigation-list {
+      flex-direction: column;
+      gap: 16px; /* Increase gap for vertical layout */
+    }
+  }
+  

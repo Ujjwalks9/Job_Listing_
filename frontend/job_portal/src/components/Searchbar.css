@@ -1,0 +1,35 @@
+.search-container {
+    background-color: #f0f0f0; /* Replace with your desired background color */
+    padding: 1rem;
+  }
+  
+  .search-inner {
+    display: flex;
+    gap: 1rem; 
+  }
+  
+  .search-input {
+    flex-grow: 1;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .search-select {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .search-button {
+    background-color: #007bff; /* Replace with your desired button color */
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .search-button:hover {
+    background-color: #0069d9; /* Replace with your desired hover color */
+  }
