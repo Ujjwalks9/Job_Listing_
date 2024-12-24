@@ -23,9 +23,29 @@ A modern web application to browse and manage remote job listings. Built with a 
 ### **Backend**
 - **Django**: Python-based web framework for handling API endpoints and business logic.
 - **Django REST Framework (DRF)**: Simplifies API development.
-- **SQLite**: Lightweight database for storing job data.
+- **MySql**: Lightweight database for storing job data.
 
 ---
+---
+
+## **Screenshots**
+### **Job Listings**
+![Job Listings Screenshot](assets/images/job_listing.png)
+
+### **Server Running**
+![Server Running Screenshot](assets/images/terminal.png)
+
+### **POSTMAN API**
+![Postman API Screenshot](assets/images/postman_api.png)
+
+### **DEMO VIDEO**
+
+https://github.com/user-attachments/assets/d71f272a-26b9-4033-85ad-badddc72e7f3
+
+
+
+---
+
 
 ## **Getting Started**
 
@@ -130,7 +150,7 @@ JOB_LISTING/
     "status": "success",
     "jobs": [
       {
-        " "id": 1,
+        "id": 1,
             "job_id": "6c1458864d67cd32d2f80c688e8fb6cb",
             "guid": "00000000-0000-0000-0000-000000000000",
             "summary": "Arrow Staffing is seeking a Printing Operator to join our team in Grand Rapids. This is an in-person position focused on operating production equipment to produce and print on various sign components.  Shift: 7:25 AM to 3:55 PM  Wage: $16-$17 per hour  Day-to-Day Responsibilities: Artwork and file preparation.Operating UV flatbed printers, plotters, routers, and related equipment.Loading, unloading, and inspecting parts.Performing additional duties as assigned. Qualifications: Experience using s",
@@ -154,23 +174,9 @@ JOB_LISTING/
 
   ```
 
----
-
-## **Screenshots**
-### **Job Listings**
-![Job Listings Screenshot](assets/image/job_listing.png)
-
-### **Server Running**
-![Server Running Screenshot](assets/image/terminal.png)
-
-### **POSTMAN API**
-![Postman API Screenshot](assets/image/postman_api.png)
-
-### **DEMO VIDEO**
-![Demo Video](assets/videos/demo.mp4)
-
-
----
 
 
 ## **THANKS FOR VISTING!!!**
+
+
+
