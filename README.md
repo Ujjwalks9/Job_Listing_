@@ -39,8 +39,9 @@ A modern web application to browse and manage remote job listings. Built with a 
 ![Postman API Screenshot](assets/images/postman_api.png)
 
 ### **DEMO VIDEO**
+https://github.com/user-attachments/assets/1fc443f5-5ccd-4285-918f-ba6d203af2d7
 
-https://github.com/user-attachments/assets/d71f272a-26b9-4033-85ad-badddc72e7f3
+
 
 
 
